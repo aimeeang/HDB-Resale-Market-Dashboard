@@ -15,9 +15,9 @@ This repository contains the code and resources for the Interactive HDB Resale M
 - [`HDB_TownAnalysis_Tool_Explanation.png`](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/HDB_TownAnalysis_Tool_Explanation.png): Town Analysis Explanation
   
 ## Tools and Technologies
+- Microsoft Power BI
 - Python
 - OneMap API
-- Power BI
 
 ## Project Files
 - [`geospatial_analysis.py`](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/geospatial_analysis.py): Python script for generating geospatial data.
