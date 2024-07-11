@@ -27,6 +27,6 @@ This repository contains the code and resources for the Interactive HDB Resale M
 
 ## How to Run
 1. Clone this repository.
-2. Install required libraries (listed in `requirements.txt`).
+2. Install required libraries.
 3. Run the Python scripts to prepare the data.
 4. Open the Power BI dashboard file to explore the visualizations.
