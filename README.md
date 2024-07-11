@@ -14,11 +14,10 @@ This repository contains the code and resources for the Interactive HDB Resale M
 - Power BI
 
 ## Project Files
-- `data_cleaning.py`: Python script for cleaning and preparing data.
-- `geospatial_analysis.py`: Python script for generating geospatial data.
-- `proximity_analysis.py`: Python script for calculating distances to MRT stations, schools, and malls.
-- `power_bi_dashboard.pbix`: Power BI dashboard file.
-- `README.md`: Project documentation.
+- [`geospatial_analysis.py`](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/geospatial_analysis.py): Python script for generating geospatial data.
+- [`proximity_analysis.py`](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/proximity_analysis.py): Python script for calculating distances to MRT stations, schools, and malls.
+- [`HDB-Resale-Market-Dashboard.pbix`](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/HDB%20Resale%20Flat%20Dashboard.pbix): Power BI dashboard file.
+- [`README.md`](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/README.md): Project documentation.
 
 ## How to Run
 1. Clone this repository.
