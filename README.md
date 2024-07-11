@@ -15,7 +15,7 @@ This repository contains the code and resources for the Interactive HDB Resale M
 - [`HDB_TownAnalysis_Tool_Explanation.png`](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/HDB_TownAnalysis_Tool_Explanation.png): Town Analysis Explanation
 
 ## Project Presentation Slides
-[`HDB_Resale_OverviewPPT.pdf`](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/HDB_Resale_OverviewPPT.pdf): Project Presentation Slides
+- [`HDB_Resale_OverviewPPT.pdf`](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/HDB_Resale_OverviewPPT.pdf): Project Presentation Slides
 
 ## Tools and Technologies
 - Microsoft Power BI
