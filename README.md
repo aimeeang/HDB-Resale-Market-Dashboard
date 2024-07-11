@@ -12,7 +12,7 @@ This repository contains the code and resources for the Interactive HDB Resale M
 ![Power BI Dashboard Screenshot](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/HDB_Dashboard_Screenshot.jpg) 
 ![Power BI Dashboard Screenshot](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/HDB_Dashboard_Screenshot_2.jpg) 
 
-- [`HDB_TownAnalysis_Tool_Explanation.png`](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/HDB_TownAnalysis_Tool%20Explanation.png): Town Analysis Explaination
+- [`HDB_TownAnalysis_Tool_Explanation.png`](https://github.com/aimeeang/HDB-Resale-Market-Dashboard/blob/main/HDB_TownAnalysis_Tool_Explanation.png): Town Analysis Explanation
   
 ## Tools and Technologies
 - Python
